@@ -52,7 +52,6 @@ function gameStart() {
             }
         }
         displayed = newDisplayed;
-        console.log(displayed);
         updateDisplay();
     }
 
